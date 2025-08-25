@@ -1,5 +1,5 @@
-#Disease Outbreak Predictor
-Predicts region‑level outbreak risk using environmental and health indicators, with a REST API for real‑time and batch inference and an optional dashboard for visualizing hot‑spots.
+ # Disease Outbreak Predictor #
+ Predicts region‑level outbreak risk using environmental and health indicators, with a REST API for real‑time and batch inference and an optional dashboard for visualizing hot‑spots.
 
 Model: scikit‑learn (classification)
 
